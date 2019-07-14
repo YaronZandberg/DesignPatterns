@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\bin\Debug\State - Self_c_Context.exe.config
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\bin\Debug\State - Self_c_Context.exe
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\bin\Debug\State - Self_c_Context.pdb
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\obj\Debug\State - Self_c_Context.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\obj\Debug\State - Self_c_Context.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\obj\Debug\State - Self_c_Context.exe
+C:\Users\HackerU\source\repos\State - Self_c_Context\State - Self_c_Context\obj\Debug\State - Self_c_Context.pdb
