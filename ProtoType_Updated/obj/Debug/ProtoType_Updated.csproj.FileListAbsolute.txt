@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\bin\Debug\ProtoType_Updated.exe.config
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\bin\Debug\ProtoType_Updated.exe
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\bin\Debug\ProtoType_Updated.pdb
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\obj\Debug\ProtoType_Updated.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\obj\Debug\ProtoType_Updated.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\obj\Debug\ProtoType_Updated.exe
+C:\Users\HackerU\source\repos\ProtoType_Updated\ProtoType_Updated\obj\Debug\ProtoType_Updated.pdb
