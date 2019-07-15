@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\bin\Debug\Protptype_Web_Info.exe.config
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\bin\Debug\Protptype_Web_Info.exe
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\bin\Debug\Protptype_Web_Info.pdb
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\obj\Debug\Protptype_Web_Info.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\obj\Debug\Protptype_Web_Info.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\obj\Debug\Protptype_Web_Info.exe
+C:\Users\HackerU\source\repos\Protptype_Web_Info\Protptype_Web_Info\obj\Debug\Protptype_Web_Info.pdb
