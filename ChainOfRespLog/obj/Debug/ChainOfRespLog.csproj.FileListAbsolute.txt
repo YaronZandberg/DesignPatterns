@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\bin\Debug\ChainOfRespLog.exe.config
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\bin\Debug\ChainOfRespLog.exe
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\bin\Debug\ChainOfRespLog.pdb
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\obj\Debug\ChainOfRespLog.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\obj\Debug\ChainOfRespLog.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\obj\Debug\ChainOfRespLog.exe
+C:\Users\HackerU\source\repos\ChainOfRespLog\ChainOfRespLog\obj\Debug\ChainOfRespLog.pdb
