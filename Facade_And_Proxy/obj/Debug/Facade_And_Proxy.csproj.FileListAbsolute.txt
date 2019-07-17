@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\bin\Debug\Facade_And_Proxy.exe.config
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\bin\Debug\Facade_And_Proxy.exe
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\bin\Debug\Facade_And_Proxy.pdb
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\obj\Debug\Facade_And_Proxy.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\obj\Debug\Facade_And_Proxy.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\obj\Debug\Facade_And_Proxy.exe
+C:\Users\HackerU\source\repos\Facade_And_Proxy\Facade_And_Proxy\obj\Debug\Facade_And_Proxy.pdb
