@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\bin\Debug\DecoratorFormula.exe.config
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\bin\Debug\DecoratorFormula.exe
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\bin\Debug\DecoratorFormula.pdb
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\obj\Debug\DecoratorFormula.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\obj\Debug\DecoratorFormula.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\obj\Debug\DecoratorFormula.exe
+C:\Users\HackerU\source\repos\DecoratorFormula\DecoratorFormula\obj\Debug\DecoratorFormula.pdb
