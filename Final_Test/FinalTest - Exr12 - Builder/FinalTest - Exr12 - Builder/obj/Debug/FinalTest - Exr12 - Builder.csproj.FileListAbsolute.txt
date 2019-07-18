@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\bin\Debug\FinalTest - Exr12 - Builder.exe.config
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\bin\Debug\FinalTest - Exr12 - Builder.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\bin\Debug\FinalTest - Exr12 - Builder.pdb
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\obj\Debug\FinalTest - Exr12 - Builder.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\obj\Debug\FinalTest - Exr12 - Builder.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\obj\Debug\FinalTest - Exr12 - Builder.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr12 - Builder\FinalTest - Exr12 - Builder\obj\Debug\FinalTest - Exr12 - Builder.pdb
