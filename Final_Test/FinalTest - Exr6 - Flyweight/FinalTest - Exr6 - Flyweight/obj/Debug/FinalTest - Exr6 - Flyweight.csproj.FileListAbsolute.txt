@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\bin\Debug\FinalTest - Exr6 - Flyweight.exe.config
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\bin\Debug\FinalTest - Exr6 - Flyweight.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\bin\Debug\FinalTest - Exr6 - Flyweight.pdb
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\obj\Debug\FinalTest - Exr6 - Flyweight.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\obj\Debug\FinalTest - Exr6 - Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\obj\Debug\FinalTest - Exr6 - Flyweight.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr6 - Flyweight\FinalTest - Exr6 - Flyweight\obj\Debug\FinalTest - Exr6 - Flyweight.pdb
