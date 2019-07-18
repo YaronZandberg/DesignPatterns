@@ -1,0 +1,11 @@
+
+ERROR: Some error log
+FATAL: Some fatal log
+ERROR: Some error log
+FATAL: Some fatal log
+ERROR: Some error log
+FATAL: Some fatal log
+ERROR: Some error log
+FATAL: Some fatal log
+ERROR: Some error log
+FATAL: Some fatal log
