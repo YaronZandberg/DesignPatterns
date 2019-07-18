@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTest - Exr8 - TemplateMethod", "FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod.csproj", "{4EFF0D9B-701B-494E-B7A0-D77DBC117BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFF0D9B-701B-494E-B7A0-D77DBC117BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFF0D9B-701B-494E-B7A0-D77DBC117BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFF0D9B-701B-494E-B7A0-D77DBC117BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFF0D9B-701B-494E-B7A0-D77DBC117BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF91619-7EEE-461D-AD63-E33B30E2FF58}
+	EndGlobalSection
+EndGlobal

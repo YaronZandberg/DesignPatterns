@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\bin\Debug\FinalTest - Exr3 - Facade_and_Proxy.exe.config
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\bin\Debug\FinalTest - Exr3 - Facade_and_Proxy.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\bin\Debug\FinalTest - Exr3 - Facade_and_Proxy.pdb
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\obj\Debug\FinalTest - Exr3 - Facade_and_Proxy.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\obj\Debug\FinalTest - Exr3 - Facade_and_Proxy.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\obj\Debug\FinalTest - Exr3 - Facade_and_Proxy.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr3 - Facade_and_Proxy\FinalTest - Exr3 - Facade_and_Proxy\obj\Debug\FinalTest - Exr3 - Facade_and_Proxy.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTest - Exr2 - Composite", "FinalTest - Exr2 - Composite\FinalTest - Exr2 - Composite.csproj", "{E297345B-6B97-4F36-A605-D377AC46A4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E297345B-6B97-4F36-A605-D377AC46A4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E297345B-6B97-4F36-A605-D377AC46A4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E297345B-6B97-4F36-A605-D377AC46A4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E297345B-6B97-4F36-A605-D377AC46A4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E730FEE8-2969-4F7D-BD6A-978861FC066F}
+	EndGlobalSection
+EndGlobal

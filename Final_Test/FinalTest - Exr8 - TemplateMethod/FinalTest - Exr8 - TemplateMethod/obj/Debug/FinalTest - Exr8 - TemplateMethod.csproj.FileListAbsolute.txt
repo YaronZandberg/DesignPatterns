@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\bin\Debug\FinalTest - Exr8 - TemplateMethod.exe.config
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\bin\Debug\FinalTest - Exr8 - TemplateMethod.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\bin\Debug\FinalTest - Exr8 - TemplateMethod.pdb
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\obj\Debug\FinalTest - Exr8 - TemplateMethod.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\obj\Debug\FinalTest - Exr8 - TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\obj\Debug\FinalTest - Exr8 - TemplateMethod.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr8 - TemplateMethod\FinalTest - Exr8 - TemplateMethod\obj\Debug\FinalTest - Exr8 - TemplateMethod.pdb
