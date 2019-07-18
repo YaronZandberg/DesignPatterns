@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\bin\Debug\FinalTest - Exr10 - Decorator.exe.config
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\bin\Debug\FinalTest - Exr10 - Decorator.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\bin\Debug\FinalTest - Exr10 - Decorator.pdb
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\obj\Debug\FinalTest - Exr10 - Decorator.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\obj\Debug\FinalTest - Exr10 - Decorator.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\obj\Debug\FinalTest - Exr10 - Decorator.exe
+C:\Users\HackerU\source\repos\FinalTest - Exr10 - Decorator\FinalTest - Exr10 - Decorator\obj\Debug\FinalTest - Exr10 - Decorator.pdb
